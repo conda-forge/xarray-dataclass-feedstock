@@ -1,5 +1,5 @@
 {% set name = "xarray-dataclass" %}
-{% set version = "2.0.0" %}
+{% set version = "3.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/xarray-contrib/xarray-dataclass/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: cb27f272648b8e787dd0ab87e5d2bf609f49b726fc758dbab8609f7fbb62b2d7
+  sha256: f1b602bbef535f68849b4bc02d4873986bf86110caeede85d0f90cf33af0195a
 
 build:
   noarch: python
