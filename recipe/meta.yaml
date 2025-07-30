@@ -27,7 +27,7 @@ requirements:
 
 test:
   imports:
-    - xarray_dataclasses
+    - xarray_dataclass
   commands:
     - pip check
     - pytest tests
