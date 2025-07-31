@@ -151,5 +151,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@ianhi](https://github.com/ianhi/)
 * [@melonora](https://github.com/melonora/)
+* [@thewtex](https://github.com/thewtex/)
 
